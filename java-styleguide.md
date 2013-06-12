@@ -36,8 +36,8 @@
 
 ## References
 
-- Android: http://source.android.com/source/code-style.html
-- Sun: http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+- [Android](http://source.android.com/source/code-style.html)
+- [Sun](http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html)
 
 ## Thoughts
 
